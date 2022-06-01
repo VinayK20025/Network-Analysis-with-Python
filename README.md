@@ -1,9 +1,10 @@
-# Network Analysis
+A network analysis consists of finding voltages, and currents, across all components of a network. Calculating these values involves a variety of techniques.
+We can use it in studying the structure of relationships in social networks, the structure or process of change in natural phenomena, or even the analysis of biological systems of organisms.
+ 
+Analyzing this network helps in
+- Identifying the most influent person/people in a group
+- Defining characteristics of groups of users
+- Prediction of suitable items for users
+- Identifying CM targets ,etc.
 
-Here you can find the code and data I used for the network analysis videos on Youtube.
-
-Please note that I have truncated the nodes/edges tsv files to increase your runspeed, and because this is still part of an active research project (I'll share the full dataset soon)!
-
-Nodes/edges data comes from the China Biographical Database
-
-The Pride and Prejudice text comes from gutenberg.org, and the names list from Wikipedia.
+We have used Python as our Programming Language for the Tool.
